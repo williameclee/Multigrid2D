@@ -1,4 +1,4 @@
-# matlab-2dmultigrid
+# Two-dimensional Multigrid Relaxation in MATLAB
 
 For a evenly-spaced $N\times N$ matrix $\textbf{U}$ that satisfy the following Poisson's equation:
 $$
